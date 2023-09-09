@@ -1,3 +1,6 @@
+# Versão
+> Versão: 1.0
+
 # GitFlow_Trabalho1
 
 ## Cadastro de Alunos
