@@ -5,5 +5,5 @@
 
 ## Cadastro de Alunos
 
-**Nome: Alexandre Heigi
-**Telefone: 44 9999-0001
+**Nome**: Alexandre Heigi
+**Telefone**: 44 9999-0001
